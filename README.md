@@ -1,0 +1,3 @@
+This is a Jupyter notebook designed for developing a chatbot using the light-weight Distilled BERT model. 
+For finetuning on a perticular dataset, your dataset have to be in .txt format
+Just fix the dataset path of your dataset and then it will run....
